@@ -1,5 +1,13 @@
 package exercices;
 
+/*
+You can find a Java class (Solution) with a method which receives a number (integer) and prints the reverse number. 
+This class does not work, it contains errors, and it is not printing the right reverse number.
+
+  Goal: fix the class to print the right reverse number.
+  Please, include the values used to validate that it is working.
+*/
+
 class BugfxingReverseNumberTest {
 
     @Test
