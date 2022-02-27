@@ -1,19 +1,20 @@
 # QA Technical Test - Coding Exercises
 
-Before the technical interview, you need to complete these exercises, so you’ll have the opportunity to comment your solution.
+Before the technical interview, you need to complete these exercises, so you’ll have the opportunity to comment your
+solution.
 
-Main purpose is to design some code per exercise and then explain and debate about your solution.
-Please, try to do then on Java or JavaScript.
+Main purpose is to design some code per exercise and then explain and debate about your solution. Please, try to do then
+on Java or JavaScript.
 
 **Create a new branch with your name to deliver your solutions**
 
 ## BugfxingReverseNumber  (Reversing a number)
 
-You can find a Java class (Solution) with a method which receives a number (integer) and prints the reverse number. This class does not work, it contains errors, and it is not printing the right reverse number.
+You can find a Java class (Solution) with a method which receives a number (integer) and prints the reverse number. This
+class does not work, it contains errors, and it is not printing the right reverse number.
 
       Goal: fix the class to print the right reverse number.
       Please, include the values used to validate that it is working.
-
 
 ## QA Java Login Page
 
